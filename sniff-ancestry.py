@@ -29,7 +29,7 @@
 #htmlfile = 'A.html'
 # OTHERS: you may need a line similar to this (without the hash):
 #htmlfile = '/tmp/A.html'
-htmlfile = '/tmp/A.html'
+htmlfile = '/Users/jeff/Documents/Temp/a.html'
 
 # The output file name
 tester_csv = 'matches.csv'
